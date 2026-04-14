@@ -1,0 +1,782 @@
+fiscal_year,month_numeric,month,description,re,provisional_value,per_of_actuals_to_revised_estimates_current,per_of_actuals_to_revised_estimates_coppy,released_on,updated_on,data_source,data_url
+2020-2021,1,January,A. Interest Receipts,14004.66,12662.39,90%,(85%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,B. Dividends and Profits,96543.54,74371.39,77%,(81%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,C. Non-Tax Revenue of U.T.s,2080.63,1245.63,60%,(79%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,D. Other Non-Tax Revenue,,,,,2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Other Non-Tax Revenue Fiscal Services (Net),589.65,58.07,10%,(83%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Other Non-Tax Revenue General Services (Net),16266.09,11899.73,73%,(79%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Other Non-Tax Revenue Social Services,3145.44,2938.67,93%,(71%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Other Non-Tax Revenue Economic Services (Net),76600.77,36849.38,48%,(55%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,1421.75,1078.47,76%,(35%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Total Other Non-Tax Revenue,98023.70,52824.32,54%,(59%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Net Non-Tax Revenue,210652.53,141103.73,67%,(73%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,A. Interest Receipts,14004.66,13917.28,99%,(92%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,B. Dividends and Profits,96543.54,81985.98,85%,(82%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,C. Non-Tax Revenue of U.T.s,2080.63,1348.07,65%,(86%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,D. Other Non-Tax Revenue,,,,,2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Other Non-Tax Revenue Fiscal Services (Net),589.65,69.55,12%,(90%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Other Non-Tax Revenue General Services (Net),16266.09,12813.68,79%,(87%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Other Non-Tax Revenue Social Services,3145.44,3474.17,110%,(87%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Other Non-Tax Revenue Economic Services (Net),76600.77,39490.03,52%,(60%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,1421.75,1087.21,76%,(36%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Total Other Non-Tax Revenue,98023.70,56934.64,58%,(65%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Net Non-Tax Revenue,210652.53,154185.97,73%,(76%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,A. Interest Receipts,14004.66,17146.11,122%,(112)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,B. Dividends and Profits,96543.54,96960.56,100%,(93)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,C. Non-Tax Revenue of U.T.s,2080.63,1287.36,62%,(83)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,D. Other Non-Tax Revenue,,,,,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Other Non-Tax Revenue Fiscal Services (Net),589.65,1168.80,198%,(148)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Other Non-Tax Revenue General Services (Net),16266.09,14027.60,86%,(93)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Other Non-Tax Revenue Social Services,3145.44,3806.01,121%,(93)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Other Non-Tax Revenue Economic Services (Net),76600.77,71910.70,94%,(97)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Other Non-Tax Revenue Grants-in-Aid and Contributions,1421.75,1751.64,123%,(38)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Total Other Non-Tax Revenue,98023.70,92664.75,95%,(96)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Net Non-Tax Revenue,210652.53,208058.78,99%,(95)%,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,A. Interest Receipts,11042.04,294.36,3%,(11%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,B. Dividends and Profits,155395.47,1.77,< 1%,( < 1%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,C. Non-Tax Revenue of U.T.s,2302.56,41.29,2%,(7%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,D. Other Non-Tax Revenue,,,,,2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Other Non-Tax Revenue Fiscal Services (Net),750.80,2.50,0%,(7% ),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Other Non-Tax Revenue General Services (Net),21620.82,1952.91,9%,(19%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Other Non-Tax Revenue Social Services,4268.59,876.26,21%,( 11%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Other Non-Tax Revenue Economic Services (Net),188825.02,2558.48,1%,(16%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,42.98,5%,(< 1% ),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Total Other Non-Tax Revenue,216277.23,5433.13,3%,(16%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Net Non-Tax Revenue,385017.30,5770.55,1%,(7%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,A. Interest Receipts,11042.04,609.97,6%,(16%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,B. Dividends and Profits,155395.47,2154.25,1%,(< 1%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,C. Non-Tax Revenue of U.T.s,2302.56,98.89,4%,(15%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,D. Other Non-Tax Revenue,,,,,2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Other Non-Tax Revenue Fiscal Services (Net),750.80,23.82,3%,(56% ),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Other Non-Tax Revenue General Services (Net),21620.82,2659.18,12%,(26%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Other Non-Tax Revenue Social Services,4268.59,1423.90,33%,( 15%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Other Non-Tax Revenue Economic Services (Net),188825.02,3578.66,2%,( 18%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,269.03,33%,(1% ),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Total Other Non-Tax Revenue,216277.23,7954.59,4%,(19%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Net Non-Tax Revenue,385017.30,10817.70,3%,(9%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,A. Interest Receipts,11042.04,1629.08,15%,(24%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,B. Dividends and Profits,155395.47,2349.39,2%,(< 1% ),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,C. Non-Tax Revenue of U.T.s,2302.56,190.85,8%,(21%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,D. Other Non-Tax Revenue,,,,,2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Other Non-Tax Revenue Fiscal Services (Net),750.80,26.17,3%,(57% ),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Other Non-Tax Revenue General Services (Net),21620.82,3432.65,16%,(32%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Other Non-Tax Revenue Social Services,4268.59,1594.33,37%,( 19%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Other Non-Tax Revenue Economic Services (Net),188825.02,5691.34,3%,( 20%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,271.96,33%,(3% ),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Total Other Non-Tax Revenue,216277.23,11016.45,5%,(22%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Net Non-Tax Revenue,385017.30,15185.77,4%,(11%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,A. Interest Receipts,11042.04,2818.75,26%,(30%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,B. Dividends and Profits,155395.47,2420.04,2%,(< 1% ),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,C. Non-Tax Revenue of U.T.s,2302.56,377.79,16%,(29%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,D. Other Non-Tax Revenue,,,,,2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Other Non-Tax Revenue Fiscal Services (Net),750.80,27.12,4%,(59% ),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Other Non-Tax Revenue General Services (Net),21620.82,4217.03,20%,(38%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Other Non-Tax Revenue Social Services,4268.59,1789.78,42%,( 23%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Other Non-Tax Revenue Economic Services (Net),188825.02,12690.43,7%,( 27%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,272.52,34%,(3% ),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Total Other Non-Tax Revenue,216277.23,18996.88,9%,(29%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Net Non-Tax Revenue,385017.30,24613.46,6%,(14%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,A. Interest Receipts,11042.04,4069.73,37%,(37%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,B. Dividends and Profits,155395.47,59577.51,38%,(92%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,C. Non-Tax Revenue of U.T.s,2302.56,548.63,24%,(38%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,D. Other Non-Tax Revenue,,,,,2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Other Non-Tax Revenue Fiscal Services (Net),750.80,35.86,5%,(75%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Other Non-Tax Revenue General Services (Net),21620.82,5313.41,25%,(43%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Other Non-Tax Revenue Social Services,4268.59,1949.24,46%,(38%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Other Non-Tax Revenue Economic Services (Net),188825.02,14376.21,8%,(29%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,276.38,34%,(15%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Total Other Non-Tax Revenue,216277.23,21951.10,10%,(32%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Net Non-Tax Revenue,385017.30,86146.97,22%,(63%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,A. Interest Receipts,11042.04,5748.51,52%,(47%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,B. Dividends and Profits,155395.47,59951.30,39%,(95%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,C. Non-Tax Revenue of U.T.s,2302.56,676.72,29%,(47%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,D. Other Non-Tax Revenue,,,,,2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Other Non-Tax Revenue Fiscal Services (Net),750.80,39.58,5%,(76%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Other Non-Tax Revenue General Services (Net),21620.82,6630.42,31%,(50%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Other Non-Tax Revenue Social Services,4268.59,2113.69,50%,(43%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Other Non-Tax Revenue Economic Services (Net),188825.02,16835.22,9%,(31%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,278.13,34%,(16%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Total Other Non-Tax Revenue,216277.23,25897.04,12%,(35%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Net Non-Tax Revenue,385017.30,92273.57,24%,(67%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,A. Interest Receipts,11042.04,8138.39,74%,(49%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,B. Dividends and Profits,155395.47,67081.80,43%,(97%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,C. Non-Tax Revenue of U.T.s,2302.56,843.05,37%,(55%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,D. Other Non-Tax Revenue,,,,,2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Other Non-Tax Revenue Fiscal Services (Net),750.80,40.96,5%,(76%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Other Non-Tax Revenue General Services (Net),21620.82,7658.62,35%,(57%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Other Non-Tax Revenue Social Services,4268.59,2362.78,55%,(47%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Other Non-Tax Revenue Economic Services (Net),188825.02,29072.49,15%,(41%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,1008.34,124%,(17%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Total Other Non-Tax Revenue,216277.23,40143.19,19%,(44%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Net Non-Tax Revenue,385017.30,116206.43,30%,(72%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,A. Interest Receipts,11042.04,9568.36,87%,(55%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,B. Dividends and Profits,155395.47,70613.63,45%,(97%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,C. Non-Tax Revenue of U.T.s,2302.56,974.69,42%,(62%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,D. Other Non-Tax Revenue,,,,,2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Other Non-Tax Revenue Fiscal Services (Net),750.80,54.24,7%,(89%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Other Non-Tax Revenue General Services (Net),21620.82,8472.19,39%,(64%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Other Non-Tax Revenue Social Services,4268.59,2488.23,58%,(52%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Other Non-Tax Revenue Economic Services (Net),188825.02,31088.60,16%,(45%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,1019.55,126%,(19%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Total Other Non-Tax Revenue,216277.23,43122.81,20%,(49%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Net Non-Tax Revenue,385017.30,124279.49,32%,(74%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,A. Interest Receipts,11042.04,11267.31,102%,(63%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,B. Dividends and Profits,155395.47,70847.62,46%,(99%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,C. Non-Tax Revenue of U.T.s,2302.56,1128.78,49%,(69%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,D. Other Non-Tax Revenue,,,,,2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Other Non-Tax Revenue Fiscal Services (Net),750.80,57.07,8%,(90%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Other Non-Tax Revenue General Services (Net),21620.82,10084.75,47%,(70%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Other Non-Tax Revenue Social Services,4268.59,2748.83,64%,(57%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Other Non-Tax Revenue Economic Services (Net),188825.02,28979.59,15%,(48%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,812.00,1067.14,131%,(33%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Total Other Non-Tax Revenue,216277.23,42937.38,20%,(52%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Net Non-Tax Revenue,385017.30,126181.09,33%,(77%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,A. Interest Receipts,20894.00,18170.34,87%,(90)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,B. Dividends and Profits,147353.00,141752.97,96%,(77)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,C. Non-Tax Revenue of U.T.s,2530.64,1602.32,63%,(60)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,D. Other Non-Tax Revenue,,,,,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Other Non-Tax Revenue Fiscal Services (Net),1183.72,70.16,6%,(10)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Other Non-Tax Revenue General Services (Net),16084.32,17287.36,107%,(73)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Other Non-Tax Revenue Social Services,3375.31,3366.50,100%,(93)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Other Non-Tax Revenue Economic Services (Net),121025.48,108020.80,89%,(48)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,1344.84,1214.09,90%,(76)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Total Other Non-Tax Revenue,143013.67,129958.91,91%,(54)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Net Non-Tax Revenue,313791.31,291484.54,93%,(67)%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,A. Interest Receipts,20894.00,20175.50,9 7%,(99)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,B. Dividends and Profits,147353.00,146600.42,99%,(85)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,C. Non-Tax Revenue of U.T.s,2530.64,1763.22,70%,(65)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,D. Other Non-Tax Revenue,,,,,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Other Non-Tax Revenue Fiscal Services (Net),1183.72,82.91,7%,(12)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Other Non-Tax Revenue General Services (Net),16084.32,24851.06,155%,(79)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Other Non-Tax Revenue Social Services,3375.31,4152.49,123%,(110)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Other Non-Tax Revenue Economic Services (Net),121025.48,111206.96,92%,(52)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,1344.84,1298.80,97%,(76)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Total Other Non-Tax Revenue,143013.67,141592.22,99%,(58)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Net Non-Tax Revenue,313791.31,310131.36,99%,(73)%,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,A. Interest Receipts,20894.00,22111.14,106%,(122)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,B. Dividends and Profits,147353.00,160654.18,109%,(100)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,C. Non-Tax Revenue of U.T.s,2530.64,1724.31,68%,(76)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,D. Other Non-Tax Revenue,,,,,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Other Non-Tax Revenue Fiscal Services (Net),1183.72,193.26,16%,(198)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Other Non-Tax Revenue General Services (Net),16084.32,23180.46,144%,(87)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Other Non-Tax Revenue Social Services,3375.31,4761.13,141%,(121)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Other Non-Tax Revenue Economic Services (Net),121025.48,134113.51,111%,(93)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Other Non-Tax Revenue Grants-in-Aid and Contributions,1344.84,1305.96,97%,(123)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Total Other Non-Tax Revenue,143013.67,163554.32,114%,(94)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Net Non-Tax Revenue,313791.31,348043.95,111%,(99)%,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,A. Interest Receipts,11541.17,7008.77,61%,(3)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,B. Dividends and Profits,103538.42,236.46,<1%,(<1)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,C. Non-Tax Revenue of U.T.s,2530.64,131.97,5%,(2)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,D. Other Non-Tax Revenue,,,,,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Other Non-Tax Revenue Fiscal Services (Net),701.90,3.83,1%,(<1)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Other Non-Tax Revenue General Services (Net),20723.87,1959.88,9%,(9)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Other Non-Tax Revenue Social Services,2881.08,1001.02,35%,(21)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Other Non-Tax Revenue Economic Services (Net),100363.82,6442.98,6%,(1)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,22.84,3%,(5)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Total Other Non-Tax Revenue,125417.67,9430.55,8%,(3)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Net Non-Tax Revenue,243027.90,16807.75,7%,(1)%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,A. Interest Receipts,11541.17,2759.42,24%,(6)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,B. Dividends and Profits,103538.42,99628.33,96%,(1)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,C. Non-Tax Revenue of U.T.s,2530.64,222.59,9%,(4)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,D. Other Non-Tax Revenue,,,,,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Other Non-Tax Revenue Fiscal Services (Net),701.90,9.60,1%,(3)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Other Non-Tax Revenue General Services (Net),20723.87,3093.52,15%,(12)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Other Non-Tax Revenue Social Services,2881.08,1169.65,41%,(33)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Other Non-Tax Revenue Economic Services (Net),100363.82,9379.88,9%,(2)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,149.45,20%,(33)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Total Other Non-Tax Revenue,125417.67,13802.10,11%,(4)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Net Non-Tax Revenue,243027.90,116412.44,48%,(3)%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,A. Interest Receipts,11541.17,4668.93,40%,(15)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,B. Dividends and Profits,103538.42,101710.63,98%,(2)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,C. Non-Tax Revenue of U.T.s,2530.64,336.17,13%,(8)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,D. Other Non-Tax Revenue,,,,,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Other Non-Tax Revenue Fiscal Services (Net),701.90,16.74,2%,(3)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Other Non-Tax Revenue General Services (Net),20723.87,4172.84,20%,(16)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Other Non-Tax Revenue Social Services,2881.08,1296.87,45%,(37)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Other Non-Tax Revenue Economic Services (Net),100363.82,14935.57,15%,(3)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,178.58,24%,(33)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Total Other Non-Tax Revenue,125417.67,20600.60,16%,(5)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Net Non-Tax Revenue,243027.90,127316.33,52%,(4)%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,A. Interest Receipts,11541.17,6550.41,57%,(26)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,B. Dividends and Profits,103538.42,101726.37,98%,(2)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,C. Non-Tax Revenue of U.T.s,2530.64,488.82,19%,(16)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,D. Other Non-Tax Revenue,,,,,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Other Non-Tax Revenue Fiscal Services (Net),701.90,24.92,4%,(4)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Other Non-Tax Revenue General Services (Net),20723.87,5189.26,25%,(20)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Other Non-Tax Revenue Social Services,2881.08,1616.03,56%,(42)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Other Non-Tax Revenue Economic Services (Net),100363.82,24176.63,24%,(7)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,188.16,25%,(34)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Total Other Non-Tax Revenue,125417.67,31195.00,25%,(9)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Net Non-Tax Revenue,243027.90,139960.60,58%,(6)%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,A. Interest Receipts,11541.17,8407.41,73%,(37)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,B. Dividends and Profits,103538.42,101941.76,98%,(38)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,C. Non-Tax Revenue of U.T.s,2530.64,622.70,25%,(24)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,D. Other Non-Tax Revenue,,,,,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Other Non-Tax Revenue Fiscal Services (Net),701.90,35.15,5%,(5)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Other Non-Tax Revenue General Services (Net),20723.87,6768.35,33%,(25)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Other Non-Tax Revenue Social Services,2881.08,1968.29,68%,(46)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Other Non-Tax Revenue Economic Services (Net),100363.82,28595.88,28%,(8)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,310.40,42%,(34)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Total Other Non-Tax Revenue,125417.67,37678.07,30%,(10)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Net Non-Tax Revenue,243027.90,148649.94,61%,(22)%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,A. Interest Receipts,11541.17,10310.22,89%,(52)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,B. Dividends and Profits,103538.42,105920.31,102%,(39)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,C. Non-Tax Revenue of U.T.s,2530.64,768.62,30%,(29)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,D. Other Non-Tax Revenue,,,,,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Other Non-Tax Revenue Fiscal Services (Net),701.90,43.93,6%,(5)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Other Non-Tax Revenue General Services (Net),20723.87,8277.80,40%,(31)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Other Non-Tax Revenue Social Services,2881.08,2144.26,74%,(50)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Other Non-Tax Revenue Economic Services (Net),100363.82,32570.34,32%,(9)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,320.87,43%,(34)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Total Other Non-Tax Revenue,125417.67,43357.20,35%,(12)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Net Non-Tax Revenue,243027.90,160356.35,66%,(24)%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,A. Interest Receipts,11541.17,12425.10,108%,(74)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,B. Dividends and Profits,103538.42,117822.58,114%,(43)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,C. Non-Tax Revenue of U.T.s,2530.64,1053.67,42%,(37)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,D. Other Non-Tax Revenue,,,,,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Other Non-Tax Revenue Fiscal Services (Net),701.90,45.40,6%,(5)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Other Non-Tax Revenue General Services (Net),20723.87,20461.42,99%,(35)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Other Non-Tax Revenue Social Services,2881.08,2464.06,86%,(55)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Other Non-Tax Revenue Economic Services (Net),100363.82,52242.26,52%,(15)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,327.90,44%,(124)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Total Other Non-Tax Revenue,125417.67,75541.06,60%,(19)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Net Non-Tax Revenue,243027.90,206842.41,85%,(30)%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,A. Interest Receipts,11541.17,13957.26,121%,(87)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,B. Dividends and Profits,103538.42,127909.39,124%,(45)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,C. Non-Tax Revenue of U.T.s,2530.64,1278.32,51%,(42)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,D. Other Non-Tax Revenue,,,,,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Other Non-Tax Revenue Fiscal Services (Net),701.90,51.68,7%,(7)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Other Non-Tax Revenue General Services (Net),20723.87,22215.85,107%,(39)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Other Non-Tax Revenue Social Services,2881.08,2681.94,93%,(58)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Other Non-Tax Revenue Economic Services (Net),100363.82,54596.58,54%,(16)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,334.77,45%,(126)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Total Other Non-Tax Revenue,125417.67,79880.82,64%,(20)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Net Non-Tax Revenue,243027.90,223025.79,92%,(32)%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,A. Interest Receipts,11541.17,16054.96,139%,(102)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,B. Dividends and Profits,103538.42,137068.24,132%,(46)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,C. Non-Tax Revenue of U.T.s,2530.64,1445.91,57%,(49)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,D. Other Non-Tax Revenue,,,,,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Other Non-Tax Revenue Fiscal Services (Net),701.90,57.66,8%,(8)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Other Non-Tax Revenue General Services (Net),20723.87,25836.85,125%,(47)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Other Non-Tax Revenue Social Services,2881.08,2985.00,104%,(64)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Other Non-Tax Revenue Economic Services (Net),100363.82,74761.48,74%,(15)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,747.00,1203.84,161%,(131)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Total Other Non-Tax Revenue,125417.67,104844.83,84%,(20)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Net Non-Tax Revenue,243027.90,259413.94,107%,(33)%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,A. Interest Receipts,24639.56,20356.93,83%,(87)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,B. Dividends and Profits,83953.33,77303.23,92%,(96)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,C. Non-Tax Revenue of U.T.s,2235.72,2028.63,91%,(63)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,D. Other Non-Tax Revenue,,,,,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Other Non-Tax Revenue Fiscal Services (Net),1308.83,356.86,27%,(6)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Other Non-Tax Revenue General Services (Net),23213.51,20374.95,88%,(107)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Other Non-Tax Revenue Social Services,4018.56,3524.55,88%,(100)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Other Non-Tax Revenue Economic Services (Net),119801.67,106061.40,89%,(89)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,2579.82,933.00,36%,(90)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Total Other Non-Tax Revenue,150922.39,131250.76,87%,(91)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Net Non-Tax Revenue,261751.00,230939.55,88%,(93)%,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,A. Interest Receipts,24639.56,23139.42,94%,(97)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,B. Dividends and Profits,83953.33,84219.78,100%,(99)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,C. Non-Tax Revenue of U.T.s,2235.72,2192.49,98%,(70)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,D. Other Non-Tax Revenue,,,,,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Other Non-Tax Revenue Fiscal Services (Net),1308.83,648.92,50%,(7)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Other Non-Tax Revenue General Services (Net),23213.51,22269.76,96%,(155)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Other Non-Tax Revenue Social Services,4018.56,4959.45,123%,(123)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Other Non-Tax Revenue Economic Services (Net),119801.67,110269.66,92%,(92)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,2579.82,936.03,36%,(97)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Total Other Non-Tax Revenue,150922.39,139083.82,92%,(99)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Net Non-Tax Revenue,261751.00,248635.51,95%,(99)%,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,A. Interest Receipts,24639.56,27872.30,113%,(105)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,B. Dividends and Profits,83953.33,99881.95,119%,(109)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,C. Non-Tax Revenue of U.T.s,2235.72,2176.36,97%,(68)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,D. Other Non-Tax Revenue,,,,,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Other Non-Tax Revenue Fiscal Services (Net),1308.83,1127.65,86%,(16)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Other Non-Tax Revenue General Services (Net),23213.51,24349.09,105%,(247)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Other Non-Tax Revenue Social Services,4018.56,6887.68,171%,(141)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Other Non-Tax Revenue Economic Services (Net),119801.67,121969.26,102%,(111)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Other Non-Tax Revenue Grants-in-Aid and Contributions,2579.82,1887.11,73%,(97)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Total Other Non-Tax Revenue,150922.39,156220.79,104%,(126)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Net Non-Tax Revenue,261751.00,286151.40,109%,(116)%,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,A. Interest Receipts,18000.00,629.99,3%,(61)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,B. Dividends and Profits,113948.00,299.63,<1%,(<1)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,C. Non-Tax Revenue of U.T.s,2806.81,267.37,10%,(5)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,D. Other Non-Tax Revenue,,,,,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Other Non-Tax Revenue Fiscal Services (Net),1296.02,13.25,1%,(1)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Other Non-Tax Revenue General Services (Net),19896.17,2556.98,13%,(9)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Other Non-Tax Revenue Social Services,2944.81,467.47,16%,(35)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Other Non-Tax Revenue Economic Services (Net),110139.26,7694.74,7%,(6)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,8.82,1%,(3)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Total Other Non-Tax Revenue,134896.26,10741.26,8%,(8)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Net Non-Tax Revenue,269651.07,11938.25,4%,(7)%,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,A. Interest Receipts,18000.00,2666.14,15%,(24)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,B. Dividends and Profits,113948.00,30714.95,27%,(96)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,C. Non-Tax Revenue of U.T.s,2806.81,433.73,15%,(9)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,D. Other Non-Tax Revenue,,,,,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Other Non-Tax Revenue Fiscal Services (Net),1296.02,48.19,4%,(1)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Other Non-Tax Revenue General Services (Net),19896.17,4419.65,22%,(15)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Other Non-Tax Revenue Social Services,2944.81,670.11,23%,(41)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Other Non-Tax Revenue Economic Services (Net),110139.26,10256.76,9%,(9)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,41.29,7%,(20)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Total Other Non-Tax Revenue,134896.26,15436.00,11%,(11)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Net Non-Tax Revenue,269651.07,49250.82,18%,(48)%,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,A. Interest Receipts,18000.00,5056.68,28%,(40)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,B. Dividends and Profits,113948.00,34703.08,30%,(98)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,C. Non-Tax Revenue of U.T.s,2806.81,611.22,22%,(13)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,D. Other Non-Tax Revenue,,,,,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Other Non-Tax Revenue Fiscal Services (Net),1296.02,71.05,5%,(2)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Other Non-Tax Revenue General Services (Net),19896.17,6212.17,31%,(20)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Other Non-Tax Revenue Social Services,2944.81,1019.61,35%,(45)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Other Non-Tax Revenue Economic Services (Net),110139.26,14327.07,13%,(15)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,159.01,26%,(24)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Total Other Non-Tax Revenue,134896.26,21788.91,16%,(16)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Net Non-Tax Revenue,269651.07,62159.89,23%,(52)%,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,A. Interest Receipts,18000.00,7489.04,42%,(57)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,B. Dividends and Profits,113948.00,42266.09,37%,(98)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,C. Non-Tax Revenue of U.T.s,2806.81,797.11,28%,(19)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,D. Other Non-Tax Revenue,,,,,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Other Non-Tax Revenue Fiscal Services (Net),1296.02,83.57,6%,(4)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Other Non-Tax Revenue General Services (Net),19896.17,8419.92,42%,(25)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Other Non-Tax Revenue Social Services,2944.81,1639.51,56%,(56)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Other Non-Tax Revenue Economic Services (Net),110139.26,28709.10,26%,(24)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,178.96,29%,(25)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Total Other Non-Tax Revenue,134896.26,39031.06,29%,(25)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Net Non-Tax Revenue,269651.07,89583.30,33%,(58)%,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,A. Interest Receipts,18000.00,10071.12,56%,(73)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,B. Dividends and Profits,113948.00,42676.17,37%,(98)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,C. Non-Tax Revenue of U.T.s,2806.81,986.28,35%,(25)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,D. Other Non-Tax Revenue,,,,,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Other Non-Tax Revenue Fiscal Services (Net),1296.02,164.40,13%,(5)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Other Non-Tax Revenue General Services (Net),19896.17,10145.19,51%,(33)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Other Non-Tax Revenue Social Services,2944.81,1916.22,65%,(68)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Other Non-Tax Revenue Economic Services (Net),110139.26,50337.04,46%,(28)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,507.73,82%,(42)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Total Other Non-Tax Revenue,134896.26,63070.58,47%,(30)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Net Non-Tax Revenue,269651.07,116804.15,4 3%,(61)%,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,A. Interest Receipts,18000.00,12483.73,69%,(89)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,B. Dividends and Profits,113948.00,53064.59,47%,(102)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,C. Non-Tax Revenue of U.T.s,2806.81,1181.69,42%,(30)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,D. Other Non-Tax Revenue,,,,,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Other Non-Tax Revenue Fiscal Services (Net),1296.02,167.27,13%,(6)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Other Non-Tax Revenue General Services (Net),19896.17,12647.12,64%,(40)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Other Non-Tax Revenue Social Services,2944.81,2221.00,75%,(74)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Other Non-Tax Revenue Economic Services (Net),110139.26,75195.08,68%,(32)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,639.63,103%,(43)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Total Other Non-Tax Revenue,134896.26,90870.10,67%,(35)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Net Non-Tax Revenue,269651.07,157600.11,58%,(66)%,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,A. Interest Receipts,18000.00,14146.26,79%,(108)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,B. Dividends and Profits,113948.00,58175.74,51%,(114)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,C. Non-Tax Revenue of U.T.s,2806.81,1447.14,52%,(42)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,D. Other Non-Tax Revenue,,,,,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Other Non-Tax Revenue Fiscal Services (Net),1296.02,170.45,13%,(6)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Other Non-Tax Revenue General Services (Net),19896.17,14529.09,73%,(99)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Other Non-Tax Revenue Social Services,2944.81,2527.12,86%,(86)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Other Non-Tax Revenue Economic Services (Net),110139.26,87127.18,79%,(52)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,655.90,106%,(44)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Total Other Non-Tax Revenue,134896.26,105009.74,78%,(60)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Net Non-Tax Revenue,269651.07,178778.88,66%,(85)%,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,A. Interest Receipts,18000.00,16632.24,92%,(121)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,B. Dividends and Profits,113948.00,68254.02,60%,(124)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,C. Non-Tax Revenue of U.T.s,2806.81,1652.95,59%,(51)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,D. Other Non-Tax Revenue,,,,,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Other Non-Tax Revenue Fiscal Services (Net),1296.02,349.77,27%,(7)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Other Non-Tax Revenue General Services (Net),19896.17,16321.34,82%,(107)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Other Non-Tax Revenue Social Services,2944.81,2829.19,96%,(93)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Other Non-Tax Revenue Economic Services (Net),110139.26,91374.87,83%,(54)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,904.19,146%,(45)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Total Other Non-Tax Revenue,134896.26,111779.36,83%,(64)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Net Non-Tax Revenue,269651.07,198318.57,74%,(92)%,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,A. Interest Receipts,18000.00,18870.41,105%,(139)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,B. Dividends and Profits,113948.00,76361.89,67%,(132)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,C. Non-Tax Revenue of U.T.s,2806.81,1845.09,66%,(57)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,D. Other Non-Tax Revenue,,,,,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Other Non-Tax Revenue Fiscal Services (Net),1296.02,353.83,27%,(8)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Other Non-Tax Revenue General Services (Net),19896.17,18614.64,94%,(125)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Other Non-Tax Revenue Social Services,2944.81,3155.23,107%,(104)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Other Non-Tax Revenue Economic Services (Net),110139.26,94192.90,86%,(74)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,620.00,907.69,146%,(161)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Total Other Non-Tax Revenue,134896.26,117224.29,87%,(84)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Net Non-Tax Revenue,269651.07,214301.68,79%,(107)%,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,A. Interest Receipts,31778.00,29736.12,94%,(83)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,B. Dividends and Profits,154407.00,147847.87,96%,(92)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,C. Non-Tax Revenue of U.T.s,2525.71,2850.76,113%,(91)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,D. Other Non-Tax Revenue,,,,,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Other Non-Tax Revenue Fiscal Services (Net),1769.59,1233.08,70%,(27)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Other Non-Tax Revenue General Services (Net),25058.74,22615.18,90%,(88)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Other Non-Tax Revenue Social Services,6080.25,5126.30,84%,(88)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Other Non-Tax Revenue Economic Services (Net),152733.84,127929.75,84%,(89 )%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,1441.87,729.69,51%,( 36)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Total Other Non-Tax Revenue,187084.29,157634.00,84%,(87)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Net Non-Tax Revenue,375795.00,338068.75,90%,(88)%,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,A. Interest Receipts,31778.00,34036.46,107%,(94)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,B. Dividends and Profits,154407.00,157070.40,102%,(100)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,C. Non-Tax Revenue of U.T.s,2525.71,3069.90,122%,(98)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,D. Other Non-Tax Revenue,,,,,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Other Non-Tax Revenue Fiscal Services (Net),1769.59,1654.34,93%,(50)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Other Non-Tax Revenue General Services (Net),25058.74,24850.88,99%,(96)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Other Non-Tax Revenue Social Services,6080.25,5871.53,97%,(123)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Other Non-Tax Revenue Economic Services (Net),152733.84,133046.93,87%,(92 )%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,1441.87,729.95,51%,( 36)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Total Other Non-Tax Revenue,187084.29,166153.63,89%,(92)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Net Non-Tax Revenue,375795.00,360330.39,96%,(95)%,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,A. Interest Receipts,31778.00,38297.11,121%,(113)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,B. Dividends and Profits,154407.00,170443.88,110%,(119)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,C. Non-Tax Revenue of U.T.s,2525.71,3028.37,120%,(97)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,D. Other Non-Tax Revenue,,,,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Other Non-Tax Revenue Fiscal Services (Net),1769.59,1858.12,105%,(86)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Other Non-Tax Revenue General Services (Net),25058.74,27830.39,111%,(105)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Other Non-Tax Revenue Social Services,6080.25,7664.51,126%,(171)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Other Non-Tax Revenue Economic Services (Net),152733.84,151752.15,99%,(101 )%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Other Non-Tax Revenue Grants-in-Aid and Contributions,1441.87,1012.74,70%,( 73)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Total Other Non-Tax Revenue,187084.29,190117.91,102%,(103)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Net Non-Tax Revenue,375795.00,401887.27,107%,(109)%,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,A. Interest Receipts,24820.12,799.30,3%,(3)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,B. Dividends and Profits,91000.00,80.25,<1%,(<1)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,C. Non-Tax Revenue of U.T.s,2313.13,247.52,11%,(10)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,D. Other Non-Tax Revenue,,,,,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Other Non-Tax Revenue Fiscal Services (Net),1431.00,5.44,<1%,(1)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Other Non-Tax Revenue General Services (Net),24312.50,3064.34,13%,(13)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Other Non-Tax Revenue Social Services,3961.29,619.65,16%,(16)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Other Non-Tax Revenue Economic Services (Net),151677.09,6135.15,4%,(7)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,6.01,<1%,(1)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Total Other Non-Tax Revenue,183517.19,9830.59,5%,(8)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Net Non-Tax Revenue,301650.44,10957.66,4%,(4)%,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,A. Interest Receipts,24820.12,5492.72,22%,(15)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,B. Dividends and Profits,91000.00,87595.20,96%,(27)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,C. Non-Tax Revenue of U.T.s,2313.13,943.01,41%,(15)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,D. Other Non-Tax Revenue,,,,,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Other Non-Tax Revenue Fiscal Services (Net),1431.00,346.18,24%,(4)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Other Non-Tax Revenue General Services (Net),24312.50,5272.23,22%,(22)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Other Non-Tax Revenue Social Services,3961.29,1538.14,39%,(23)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Other Non-Tax Revenue Economic Services (Net),151677.09,33446.04,22%,(9)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,21.66,1%,(7)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Total Other Non-Tax Revenue,183517.19,40624.25,22%,(11)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Net Non-Tax Revenue,301650.44,134655.18,45%,(18)%,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,A. Interest Receipts,24820.12,9546.16,38%,(28)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,B. Dividends and Profits,91000.00,95870.38,105%,(30)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,C. Non-Tax Revenue of U.T.s,2313.13,1165.29,50%,(22)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,D. Other Non-Tax Revenue,,,,,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Other Non-Tax Revenue Fiscal Services (Net),1431.00,348.41,24%,(5)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Other Non-Tax Revenue General Services (Net),24312.50,7152.78,29%,(31)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Other Non-Tax Revenue Social Services,3961.29,2421.93,61%,(35)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Other Non-Tax Revenue Economic Services (Net),151677.09,38403.24,25%,( 13)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,59.90,3%,( 26)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Total Other Non-Tax Revenue,183517.19,48386.26,26%,(16)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Net Non-Tax Revenue,301650.44,154968.09,51%,(23)%,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,A. Interest Receipts,24820.12,11304.13,46%,(42)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,B. Dividends and Profits,91000.00,103942.69,114%,(37)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,C. Non-Tax Revenue of U.T.s,2313.13,1380.28,60%,(28)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,D. Other Non-Tax Revenue,,,,,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Other Non-Tax Revenue Fiscal Services (Net),1431.00,362.03,25%,(6)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Other Non-Tax Revenue General Services (Net),24312.50,9122.66,38%,(42)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Other Non-Tax Revenue Social Services,3961.29,2951.23,75%,(56)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Other Non-Tax Revenue Economic Services (Net),151677.09,49662.70,33%,( 26)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,77.86,4%,( 29)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Total Other Non-Tax Revenue,183517.19,62176.48,34%,(29)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Net Non-Tax Revenue,301650.44,178803.58,59%,(33)%,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,A. Interest Receipts,24820.12,14595.10,59%,(56)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,B. Dividends and Profits,91000.00,106619.72,117%,(37)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,C. Non-Tax Revenue of U.T.s,2313.13,1590.75,69%,(35)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,D. Other Non-Tax Revenue,,,,,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Other Non-Tax Revenue Fiscal Services (Net),1431.00,753.51,53%,(13)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Other Non-Tax Revenue General Services (Net),24312.50,11729.67,48%,(51)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Other Non-Tax Revenue Social Services,3961.29,3204.45,81%,(65)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Other Non-Tax Revenue Economic Services (Net),151677.09,70968.69,47%,( 46)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,120.72,6%,( 82)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Total Other Non-Tax Revenue,183517.19,86777.04,47%,(47)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Net Non-Tax Revenue,301650.44,209582.61,69%,(43)%,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,A. Interest Receipts,24820.12,17310.21,70%,(69)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,B. Dividends and Profits,91000.00,120656.79,133%,(47)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,C. Non-Tax Revenue of U.T.s,2313.13,1789.58,77%,(42)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,D. Other Non-Tax Revenue,,,,,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Other Non-Tax Revenue Fiscal Services (Net),1431.00,757.11,53%,(13)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Other Non-Tax Revenue General Services (Net),24312.50,13782.44,57%,(64)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Other Non-Tax Revenue Social Services,3961.29,3667.55,93%,(75)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Other Non-Tax Revenue Economic Services (Net),151677.09,78685.56,52%,(68 )%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,122.75,6%,( 103)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Total Other Non-Tax Revenue,183517.19,97015.41,53%,(67)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Net Non-Tax Revenue,301650.44,236771.99,78%,(58)%,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,A. Interest Receipts,24820.12,19542.92,79%,(79)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,B. Dividends and Profits,91000.00,124529.93,137%,(51)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,C. Non-Tax Revenue of U.T.s,2313.13,2032.01,88%,(52)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,D. Other Non-Tax Revenue,,,,,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Other Non-Tax Revenue Fiscal Services (Net),1431.00,763.09,53%,(13)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Other Non-Tax Revenue General Services (Net),24312.50,15867.61,65%,(73)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Other Non-Tax Revenue Social Services,3961.29,4005.36,101%,(86)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Other Non-Tax Revenue Economic Services (Net),151677.09,98890.76,65%,(79 )%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,132.82,6%,( 106)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Total Other Non-Tax Revenue,183517.19,119659.64,65%,(78)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Net Non-Tax Revenue,301650.44,265764.50,88%,(66)%,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,A. Interest Receipts,24820.12,23514.53,95%,(92)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,B. Dividends and Profits,91000.00,131108.94,144%,(60)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,C. Non-Tax Revenue of U.T.s,2313.13,2282.40,99%,(59)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,D. Other Non-Tax Revenue,,,,,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Other Non-Tax Revenue Fiscal Services (Net),1431.00,1173.85,82%,(27)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Other Non-Tax Revenue General Services (Net),24312.50,18110.70,74%,(82)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Other Non-Tax Revenue Social Services,3961.29,4335.19,109%,(96)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Other Non-Tax Revenue Economic Services (Net),151677.09,103676.08,68%,(83 )%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,163.02,8%,( 146)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Total Other Non-Tax Revenue,183517.19,127458.84,69%,(83)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Net Non-Tax Revenue,301650.44,284364.71,94%,(74)%,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,A. Interest Receipts,24820.12,26958.72,109%,(105)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,B. Dividends and Profits,91000.00,147231.87,162%,(67)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,C. Non-Tax Revenue of U.T.s,2313.13,2490.43,108%,(66)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,D. Other Non-Tax Revenue,,,,,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Other Non-Tax Revenue Fiscal Services (Net),1431.00,1217.46,85%,(27)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Other Non-Tax Revenue General Services (Net),24312.50,20286.03,83%,(94)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Other Non-Tax Revenue Social Services,3961.29,4690.32,118%,(107)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Other Non-Tax Revenue Economic Services (Net),151677.09,108768.45,72%,(86 )%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,2135.31,714.78,33%,( 146)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Total Other Non-Tax Revenue,183517.19,135677.04,74%,(87)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Net Non-Tax Revenue,301650.44,312358.06,104%,(79)%,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,A. Interest Receipts,34041.86,32162.19,94%,(94%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,B. Dividends and Profits,289284.60,285867.95,99%,(96%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,C. Non-Tax Revenue of U.T.s,3070.28,2736.86,89%,(113%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,D. Other Non-Tax Revenue,,,,,2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Other Non-Tax Revenue Fiscal Services (Net),1473.82,1247.74,85%,(70%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Other Non-Tax Revenue General Services (Net),21470.47,23795.65,111%,(90%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Other Non-Tax Revenue Social Services,6426.34,5430.77,85%,(84%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Other Non-Tax Revenue Economic Services (Net),174056.87,115727.63,66%,(84%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,1175.76,660.68,56%,(51%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Total Other Non-Tax Revenue,204603.26,146862.47,72%,(84%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Net Non-Tax Revenue,531000.00,467629.47,88%,(90%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,A. Interest Receipts,34041.86,35204.35,103%,(107%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,B. Dividends and Profits,289284.60,300085.98,104%,(102%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,C. Non-Tax Revenue of U.T.s,3070.28,2883.64,94%,(122%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,D. Other Non-Tax Revenue,,,,,2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Other Non-Tax Revenue Fiscal Services (Net),1473.82,1556.50,106%,(93%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Other Non-Tax Revenue General Services (Net),21470.47,25502.90,119%,(99%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Other Non-Tax Revenue Social Services,6426.34,6217.24,97%,(97%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Other Non-Tax Revenue Economic Services (Net),174056.87,121210.87,70%,(87%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,1175.76,658.01,56%,(51%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Total Other Non-Tax Revenue,204603.26,155145.52,76%,(89%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Net Non-Tax Revenue,531000.00,493319.49,93%,( 96%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,A. Interest Receipts,34041.86,41223.47,121%,(120%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,B. Dividends and Profits,289284.60,308422.87,107%,(111%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,C. Non-Tax Revenue of U.T.s,3070.28,2794.13,91%,(120%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,D. Other Non-Tax Revenue,,,,,2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Other Non-Tax Revenue Fiscal Services (Net),1473.82,2056.00,140%,(105%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Other Non-Tax Revenue General Services (Net),21470.47,27307.68,127%,(109%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Other Non-Tax Revenue Social Services,6426.34,6754.39,105%,(126%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Other Non-Tax Revenue Economic Services (Net),174056.87,148298.51,85%,(99%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Other Non-Tax Revenue Grants-in-Aid and Contributions,1175.76,686.66,58%,(70%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Total Other Non-Tax Revenue,204603.26,185103.24,90%,(101%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Net Non-Tax Revenue,531000.00,537543.71,101%,(107%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,A. Interest Receipts,33107.00,3530.60,11%,(3)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,B. Dividends and Profits,150000.00,3637.47,2%,(<1)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,C. Non-Tax Revenue of U.T.s,2910.32,233.39,8%,(11)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,D. Other Non-Tax Revenue,,,,,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Other Non-Tax Revenue Fiscal Services (Net),2034.41,4.94,<1%,(<1)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Other Non-Tax Revenue General Services (Net),23320.91,3517.96,15%,(13)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Other Non-Tax Revenue Social Services,5890.63,918.58,16%,(16)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Other Non-Tax Revenue Economic Services (Net),181393.92,15451.05,9%,(4)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,1.24,<1%,(<1)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Total Other Non-Tax Revenue,213683.68,19893.77,9%,(5)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Net Non-Tax Revenue,399701.00,27295.23,7%,(4)%,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,A. Interest Receipts,33107.00,7924.42,24%,(22)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,B. Dividends and Profits,150000.00,215829.15,144%,(96)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,C. Non-Tax Revenue of U.T.s,2910.32,461.35,16%,(41)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,D. Other Non-Tax Revenue,,,,,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Other Non-Tax Revenue Fiscal Services (Net),2034.41,381.03,19%,(24)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Other Non-Tax Revenue General Services (Net),23320.91,5190.94,22%,(22)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Other Non-Tax Revenue Social Services,5890.63,1593.66,27%,(39)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Other Non-Tax Revenue Economic Services (Net),181393.92,20329.64,11%,(22)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,11.63,1%,(1)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Total Other Non-Tax Revenue,213683.68,27506.90,13%,(22)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Net Non-Tax Revenue,399701.00,251721.82,63%,(45)%,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,A. Interest Receipts,33107.00,11714.50,35%,(38%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,B. Dividends and Profits,150000.00,224325.00,150%,(105%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,C. Non-Tax Revenue of U.T.s,2910.32,677.30,23%,(50%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,D. Other Non-Tax Revenue,,,,,2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Other Non-Tax Revenue Fiscal Services (Net),2034.41,390.57,19%,(24%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Other Non-Tax Revenue General Services (Net),23320.91,7199.89,31%,(29%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Other Non-Tax Revenue Social Services,5890.63,1857.88,32%,(61%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Other Non-Tax Revenue Economic Services (Net),181393.92,33856.01,19%,(25%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,22.59,2%,(3%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Total Other Non-Tax Revenue,213683.68,43326.94,20%,(26%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Net Non-Tax Revenue,399701.00,280043.74,70%,(51%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,A. Interest Receipts,38224.00,13840.24,36%,(46%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,B. Dividends and Profits,289134.00,228822.97,79%,(114%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,C. Non-Tax Revenue of U.T.s,2910.32,938.17,32%,(60%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,D. Other Non-Tax Revenue,,,,,2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Other Non-Tax Revenue Fiscal Services (Net),1834.41,416.89,23%,(25%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Other Non-Tax Revenue General Services (Net),23320.91,8864.43,38%,(38%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Other Non-Tax Revenue Social Services,7143.63,2593.80,36%,(75%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Other Non-Tax Revenue Economic Services (Net),182089.92,46296.19,25%,(33%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,23.27,2%,(4%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Total Other Non-Tax Revenue,215432.68,58194.58,27%,(34%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Net Non-Tax Revenue,545701.00,301795.96,55%,(59%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,A. Interest Receipts,38224.00,17530.45,46%,(59%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,B. Dividends and Profits,289134.00,239695.32,83%,(117%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,C. Non-Tax Revenue of U.T.s,2910.32,1146.17,39%,(69%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,D. Other Non-Tax Revenue,,,,,2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Other Non-Tax Revenue Fiscal Services (Net),1834.41,784.00,4 3%,(53%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Other Non-Tax Revenue General Services (Net),23320.91,11195.24,48%,(48%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Other Non-Tax Revenue Social Services,7143.63,3082.38,43%,(81%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Other Non-Tax Revenue Economic Services (Net),182089.92,61008.04,34%,(47%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,25.05,2%,(6%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Total Other Non-Tax Revenue,215432.68,76094.71,35%,(47%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Net Non-Tax Revenue,545701.00,334466.65,61%,(69%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,A. Interest Receipts,38224.00,20355.24,53%,(70%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,B. Dividends and Profits,289134.00,250632.71,87%,(133%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,C. Non-Tax Revenue of U.T.s,2910.32,1372.66,4 7%,(77%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,D. Other Non-Tax Revenue,,,,,2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Other Non-Tax Revenue Fiscal Services (Net),1834.41,890.46,4 9%,(53%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Other Non-Tax Revenue General Services (Net),23320.91,13633.17,58%,(57%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Other Non-Tax Revenue Social Services,7143.63,3437.06,48%,(93%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Other Non-Tax Revenue Economic Services (Net),182089.92,66844.80,37%,(52%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,47.82,5%,(6%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Total Other Non-Tax Revenue,215432.68,84853.31,39%,(53%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Net Non-Tax Revenue,545701.00,357213.92,65%,(78%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,A. Interest Receipts,38224.00,22701.18,59%,(79%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,B. Dividends and Profits,289134.00,264278.31,91%,(137%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,C. Non-Tax Revenue of U.T.s,2910.32,1642.09,56%,(88%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,D. Other Non-Tax Revenue,,,,,2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Other Non-Tax Revenue Fiscal Services (Net),1834.41,897.41,4 9%,(53%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Other Non-Tax Revenue General Services (Net),23320.91,17041.35,73%,(65%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Other Non-Tax Revenue Social Services,7143.63,3969.83,56%,(101%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Other Non-Tax Revenue Economic Services (Net),182089.92,88620.80,49%,(65%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,142.59,14%,(6%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Total Other Non-Tax Revenue,215432.68,110671.98,51%,(65%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Net Non-Tax Revenue,545701.00,399293.56,73%,(88%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,A. Interest Receipts,38224.00,26842.32,70%,(95%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,B. Dividends and Profits,289134.00,279060.74,97%,(144%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,C. Non-Tax Revenue of U.T.s,2910.32,1869.97,64%,(99%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,D. Other Non-Tax Revenue,,,,,2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Other Non-Tax Revenue Fiscal Services (Net),1834.41,1236.06,67%,(82%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Other Non-Tax Revenue General Services (Net),23320.91,19633.83,84%,(74%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Other Non-Tax Revenue Social Services,7143.63,4487.87,63%,(109%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Other Non-Tax Revenue Economic Services (Net),182089.92,93728.16,51%,(68%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,161.31,15%,(8%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Total Other Non-Tax Revenue,215432.68,119247.23,55%,(69%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Net Non-Tax Revenue,545701.00,427020.26,78%,(94%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,A. Interest Receipts,38224.00,29902.69,78%,(109%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,B. Dividends and Profits,289134.00,284772.07,98%,(162%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,C. Non-Tax Revenue of U.T.s,2910.32,2088.36,72%,(108%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,D. Other Non-Tax Revenue,,,,,2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Other Non-Tax Revenue Fiscal Services (Net),1834.41,1243.76,68%,(85%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Other Non-Tax Revenue General Services (Net),23320.91,21814.68,94%,(83%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Other Non-Tax Revenue Social Services,7143.63,4876.26,68%,(118%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Other Non-Tax Revenue Economic Services (Net),182089.92,102325.69,56%,(72%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,1043.81,633.07,61%,(33%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Total Other Non-Tax Revenue,215432.68,130893.46,61%,(74%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Net Non-Tax Revenue,545701.00,447656.58,82%,(104%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,A. Interest Receipts,40165.00,30488.47,76%,(94%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,B. Dividends and Profits,375590.00,350971.61,93%,(99%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,C. Non-Tax Revenue of U.T.s,1806.89,1406.37,78%,(89%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,D. Other Non-Tax Revenue,,,,,2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Other Non-Tax Revenue Fiscal Services (Net),1779.00,1019.45,57%,(85%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Other Non-Tax Revenue General Services (Net),29460.98,23932.36,81%,(111%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Other Non-Tax Revenue Social Services,6882.57,4928.44,72%,(85%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Other Non-Tax Revenue Economic Services (Net),210338.59,143780.20,68%,(66%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Other Non-Tax Revenue Grants-in-Aid and Contributions,1638.97,779.73,48%,(56%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Total Other Non-Tax Revenue,250100.11,174440.18,70%,(72%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Net Non-Tax Revenue,667662.00,557306.63,83%,(88%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,A. Interest Receipts,40165.00,34466.90,8 6%,(103%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,B. Dividends and Profits,375590.00,362190.90,96%,(104%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,C. Non-Tax Revenue of U.T.s,1806.89,1552.68,86%,(94%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,D. Other Non-Tax Revenue,,,,,2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Other Non-Tax Revenue Fiscal Services (Net),1779.00,1316.70,74%,(106%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Other Non-Tax Revenue General Services (Net),29460.98,25943.34,88%,(119%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Other Non-Tax Revenue Social Services,6882.57,5580.33,81%,(97%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Other Non-Tax Revenue Economic Services (Net),210338.59,149340.39,71%,(70%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Other Non-Tax Revenue Grants-in-Aid and Contributions,1638.97,781.75,48%,(56%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Total Other Non-Tax Revenue,250100.11,182962.51,73%,(76%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Net Non-Tax Revenue,667662.00,581172.99,87%,(93%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,A. Interest Receipts,47737.98,1432.60,3%,(9%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,B. Dividends and Profits,325000.00,1916.34,1%,(1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,C. Non-Tax Revenue of U.T.s,3419.18,175.46,5%,(8%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,D. Other Non-Tax Revenue,,,,,2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Other Non-Tax Revenue Fiscal Services (Net),2318.68,20.44,1%,(0%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Other Non-Tax Revenue General Services (Net),33334.74,4238.01,13%,(15%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Other Non-Tax Revenue Social Services,11187.46,666.87,6%,(13%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Other Non-Tax Revenue Economic Services (Net),158827.43,58707.18,37%,(8%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,2.89,<1%,(<1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Total Other Non-Tax Revenue,206842.84,63635.39,31%,(9%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Net Non-Tax Revenue,583000.00,67159.79,12%,(5%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,A. Interest Receipts,47737.98,6634.16,14%,(21%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,B. Dividends and Profits,325000.00,278701.56,86%,(75%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,C. Non-Tax Revenue of U.T.s,3419.18,322.41,9%,(16%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,D. Other Non-Tax Revenue,,,,,2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Other Non-Tax Revenue Fiscal Services (Net),2318.68,296.77,13%,(21%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Other Non-Tax Revenue General Services (Net),33334.74,6245.82,19%,(22%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Other Non-Tax Revenue Social Services,11187.46,1077.41,10%,(22%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Other Non-Tax Revenue Economic Services (Net),158827.43,63584.23,40%,(11%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,14.62,1%,(1%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Total Other Non-Tax Revenue,206842.84,71218.85,34%,(13%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Net Non-Tax Revenue,583000.00,356876.98,61%,(46%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,A. Interest Receipts,47737.98,9703.70,20%,(31%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,B. Dividends and Profits,325000.00,281745.43,87%,(78%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,C. Non-Tax Revenue of U.T.s,3419.18,455.71,13%,(23%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,D. Other Non-Tax Revenue,,,,,2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Other Non-Tax Revenue Fiscal Services (Net),2318.68,316.26,14%,(21%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Other Non-Tax Revenue General Services (Net),33334.74,8995.85,27%,(31%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Other Non-Tax Revenue Social Services,11187.46,1726.83,15%,(26%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Other Non-Tax Revenue Economic Services (Net),158827.43,70097.00,44%,(19%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,20.11,2%,(2%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Total Other Non-Tax Revenue,206842.84,81156.05,39%,(20%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Net Non-Tax Revenue,583000.00,373060.89,64%,(51%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,A. Interest Receipts,47737.98,11792.42,25%,(36%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,B. Dividends and Profits,325000.00,293620.74,90%,(79%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,C. Non-Tax Revenue of U.T.s,3419.18,646.96,19%,(32%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,D. Other Non-Tax Revenue,,,,,2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Other Non-Tax Revenue Fiscal Services (Net),2318.68,326.99,14%,(23%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Other Non-Tax Revenue General Services (Net),33334.74,10851.92,33%,(38%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Other Non-Tax Revenue Social Services,11187.46,2429.40,22%,(36%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Other Non-Tax Revenue Economic Services (Net),158827.43,83886.61,53%,(25%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,53.40,5%,(2%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Total Other Non-Tax Revenue,206842.84,97548.32,47%,(27%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Net Non-Tax Revenue,583000.00,403608.44,69%,(55%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,A. Interest Receipts,47737.98,14776.08,31%,(46%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,B. Dividends and Profits,325000.00,308768.79,95%,(83%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,C. Non-Tax Revenue of U.T.s,3419.18,806.78,24%,(39%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,D. Other Non-Tax Revenue,,,,,2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Other Non-Tax Revenue Fiscal Services (Net),2318.68,629.74,27%,(43%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Other Non-Tax Revenue General Services (Net),33334.74,12781.28,38%,(48%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Other Non-Tax Revenue Social Services,11187.46,2896.34,26%,(43%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Other Non-Tax Revenue Economic Services (Net),158827.43,99553.06,63%,(34%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,120.25,10%,(2%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Total Other Non-Tax Revenue,206842.84,115980.67,56%,(35%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Net Non-Tax Revenue,583000.00,440332.32,76%,(61%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,A. Interest Receipts,47737.98,18015.35,38%,(53%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,B. Dividends and Profits,325000.00,321512.09,99%,(87%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,C. Non-Tax Revenue of U.T.s,3419.18,936.87,27%,(47%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,D. Other Non-Tax Revenue,,,,,2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Other Non-Tax Revenue Fiscal Services (Net),2318.68,650.76,28%,(49%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Other Non-Tax Revenue General Services (Net),33334.74,15672.84,47%,(58%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Other Non-Tax Revenue Social Services,11187.46,3769.73,34%,(48%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Other Non-Tax Revenue Economic Services (Net),158827.43,105413.47,66%,(37%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,104.67,9%,(5%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Total Other Non-Tax Revenue,206842.84,125611.47,61%,(39%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Net Non-Tax Revenue,583000.00,466075.78,80%,(65%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,A. Interest Receipts,47737.98,20641.83,43%,(59%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,B. Dividends and Profits,325000.00,324196.70,100%,(91%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,C. Non-Tax Revenue of U.T.s,3419.18,1145.08,33%,(56%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,D. Other Non-Tax Revenue,,,,,2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Other Non-Tax Revenue Fiscal Services (Net),2318.68,671.75,29%,(49%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Other Non-Tax Revenue General Services (Net),33334.74,18680.65,56%,(73%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Other Non-Tax Revenue Social Services,11187.46,4308.49,39%,(56%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Other Non-Tax Revenue Economic Services (Net),158827.43,119307.44,75%,(49%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,126.79,11%,(14%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Total Other Non-Tax Revenue,206842.84,143095.12,69%,(51%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Net Non-Tax Revenue,583000.00,489078.73,84%,(73%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,A. Interest Receipts,47737.98,24531.32,51%,(70%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,B. Dividends and Profits,325000.00,339542.43,104%,(97%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,C. Non-Tax Revenue of U.T.s,3419.18,1261.43,37%,(64%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,D. Other Non-Tax Revenue,,,,,2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Other Non-Tax Revenue Fiscal Services (Net),2318.68,962.16,41%,(67%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Other Non-Tax Revenue General Services (Net),33334.74,20597.15,62%,(84%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Other Non-Tax Revenue Social Services,11187.46,4629.39,41%,(63%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Other Non-Tax Revenue Economic Services (Net),158827.43,124108.07,78%,(51%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,734.40,63%,(15%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Total Other Non-Tax Revenue,206842.84,151031.17,73%,(55%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Net Non-Tax Revenue,583000.00,516366.35,89%,(78%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,A. Interest Receipts,47737.98,27975.86,59%,(78%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,B. Dividends and Profits,325000.00,350268.71,108%,(98%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,C. Non-Tax Revenue of U.T.s,3419.18,1263.39,37%,(72%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,D. Other Non-Tax Revenue,,,,,2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Other Non-Tax Revenue Fiscal Services (Net),2318.68,989.98,43%,(68%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Other Non-Tax Revenue General Services (Net),33334.74,22854.09,69%,(94%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Other Non-Tax Revenue Social Services,11187.46,4972.37,44%,(68%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Other Non-Tax Revenue Economic Services (Net),158827.43,130754.15,82%,(56%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Other Non-Tax Revenue Grants-in-Aid and Contributions,1174.53,776.96,66%,(61%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Total Other Non-Tax Revenue,206842.84,160347.55,78%,(61%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Net Non-Tax Revenue,583000.00,539855.51,93%,(82%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/

@@ -1,0 +1,624 @@
+fiscal_year,month_numeric,month,category,sub_category,re,provisional_value,per_of_actuals_to_revised_estimates_current,per_of_actuals_to_revised_estimates_coppy,released_on,updated_on,data_source,data_url
+2020-2021,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Recoveries of Loans and Advances,Gross Recoveries,25997.00,15906.88,61%,(27%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Recoveries of Loans and Advances,Less Short Term Loans and Advances,11500.00,102.39,1%,(< 1%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14497.00,15804.49,109%,(87%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,32000.00,24550.92,77%,(28%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,32000.00,19539.92,61%,(28%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,5011.00,,,2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,1,January,TOTAL,TOTAL,46497.00,40355.41,87%,(40%),2021-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Recoveries of Loans and Advances,Gross Recoveries,25997.00,17265.11,66%,(29%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Recoveries of Loans and Advances,Less Short Term Loans and Advances,11500.00,109.47,1%,(< 1%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14497.00,17155.64,118%,(95%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,32000.00,25668.08,80%,(54%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,32000.00,20657.08,65%,(54%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,5011.00,,,2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,2,February,TOTAL,TOTAL,46497.00,42823.72,92%,(63%),2021-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Recoveries of Loans and Advances,Gross Recoveries,25997.00,29926.48,115%,(34%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Recoveries of Loans and Advances,Less Short Term Loans and Advances,11500.00,10197.24,89%,(1%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14497.00,19729.24,136%,(110%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,32000.00,37896.94,118%,(74%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,32000.00,32885.94,103%,(74%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,5011.00,,,2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,3,March,TOTAL,TOTAL,46497.00,57626.18,124%,(82%),2021-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Recoveries of Loans and Advances,Gross Recoveries,66341.68,382.71,1%,(1%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,17.22,< 1%,(< 1%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,365.49,2%,(2%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,0.01,< 1%,(2%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,0.01,<1%,(2%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,4,April,TOTAL,TOTAL,224966.67,365.50,< 1%,(2%),2020-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Recoveries of Loans and Advances,Gross Recoveries,66341.68,858.15,1%,(1%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,27.45,< 1%,( < 1%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,830.70,6%,(5%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,0.01,< 1%,(2%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,0.01,< 1%,(2%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,5,May,TOTAL,TOTAL,224966.67,830.71,< 1%,( 3%),2020-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Recoveries of Loans and Advances,Gross Recoveries,66341.68,3610.58,5%,( 4%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,37.19,< 1%,(< 1%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,3573.39,24%,( 16%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,0.05,< 1%,(2%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,0.05,< 1%,(2%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,6,June,TOTAL,TOTAL,224966.67,3573.44,2%,(4%),2020-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Recoveries of Loans and Advances,Gross Recoveries,66341.68,5502.85,8%,( 7%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,47.49,< 1%,(< 1%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,5455.36,36%,( 32%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,2.93,< 1%,( 12%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,2.93,< 1%,(12%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,7,July,TOTAL,TOTAL,224966.67,5458.29,2%,( 14%),2020-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Recoveries of Loans and Advances,Gross Recoveries,66341.68,6691.24,10%,(9%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,56.18,< 1%,(< 1%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,6635.06,44%,(40%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,28.74,< 1%,(12%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,28.74,< 1%,(12%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,8,August,TOTAL,TOTAL,224966.67,6663.80,3%,(15%),2020-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Recoveries of Loans and Advances,Gross Recoveries,66341.68,8918.86,13%,(13%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,64.34,< 1%,(< 1%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,8854.52,59%,(56%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,5781.37,3%,(12%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,5781.37,5%,(12%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,9,September,TOTAL,TOTAL,224966.67,14635.89,7%,(17%),2020-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Recoveries of Loans and Advances,Gross Recoveries,66341.68,10291.80,16%,(14%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,74.01,< 1%,(< 1%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,10217.79,68%,(64%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,6178.74,3%,(17%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,6178.74,5%,(17%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,10,October,TOTAL,TOTAL,224966.67,16396.53,7%,(22%),2020-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Recoveries of Loans and Advances,Gross Recoveries,66341.68,12045.34,18%,(17%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,83.10,< 1%,(< 1%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,11962.24,80%,(74%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,6178.79,3%,(17%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,6178.79,5%,(17%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,11,November,TOTAL,TOTAL,224966.67,18141.03,8%,(24%),2020-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Recoveries of Loans and Advances,Gross Recoveries,66341.68,14294.55,22%,(20%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,93.02,< 1%,(< 1%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14966.67,14201.53,95%,(87%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,210000.00,18896.33,9%,(17%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,120000.00,18896.33,16%,(17%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. Stake in PSBs and FIs,90000.00,0.00,0%,,2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2020-2021,12,December,TOTAL,TOTAL,224966.67,33097.86,15%,(26%),2021-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Recoveries of Loans and Advances,Gross Recoveries,32600.00,20624.62,63%,(61%),2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10625.00,97.40,1%,(1%),2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,21975.00,20527.22,93%,(109%),2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,78000.00,12068.26,15%,(77%),2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,78000.00,12036.87,15%,,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,0.00,0.00,,0%,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Miscellaneous Capital Receipts,(iii) Proceeds of monetization of National Highways,0.00,0.00,,,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,31.39,,,2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,1,January,TOTAL,TOTAL,99975.00,32595.48,33%,(87%),2022-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Recoveries of Loans and Advances,Gross Recoveries,32600.00,22843.21,70%,(66%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10625.00,94.06,1%,(1%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,21975.00,22749.15,104%,(118%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,78000.00,13514.05,17%,(80%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,78000.00,8476.82,11%,(59%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,1011.00,,,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,4026.23,,,2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,2,February,TOTAL,TOTAL,99975.00,36263.20,36%,(92%),2022-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Recoveries of Loans and Advances,Gross Recoveries,32600.00,24781.53,76%,(115%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10625.00,211.68,2%,(89%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,21975.00,24569.85,112%,(136%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,78000.00,14638.22,19%,(118%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,78000.00,8432.10,11%,(93%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,1011.00,,,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,5195.12,,,2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,3,March,TOTAL,TOTAL,99975.00,39208.07,39%,(124%),2022-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Recoveries of Loans and Advances,Gross Recoveries,64375.01,389.45,1%,(1%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,17.29,<1%,(<1%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,372.16,3%,(2%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,0.36,0%,(<1%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,0.00,0%,(<1%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.36,,,2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,4,April,TOTAL,TOTAL,188000.00,372.52,<1%,(<1%),2021-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Recoveries of Loans and Advances,Gross Recoveries,64375.01,840.90,1%,(1%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,26.24,<1%,(<1%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,814.66,6%,(6%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,3994.70,2%,(<1%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,3994.70,5%,(<1%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,5,May,TOTAL,TOTAL,188000.00,4809.36,3%,(<1%),2021-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Recoveries of Loans and Advances,Gross Recoveries,64375.01,3442.07,5%,(5%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,36.34,<1%,(<1%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,3405.73,26%,(24%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,3996.48,2%,(<1%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,3994.73,5%,(<1%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,1.75,,,2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,6,June,TOTAL,TOTAL,188000.00,7402.21,4%,(2%),2021-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Recoveries of Loans and Advances,Gross Recoveries,64375.01,5824.15,9%,(8%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,46.98,<1%,(<1%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,5777.17,44%,(36%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,8370.73,5%,(<1%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,8368.96,11%,(<1%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,1.77,,,2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,7,July,TOTAL,TOTAL,188000.00,14147.90,8%,(2%),2021-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Recoveries of Loans and Advances,Gross Recoveries,64375.01,6863.26,11%,(10%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,55.39,<1%,(<1%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,6807.87,52%,(44%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,8370.79,5%,(<1%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,8369.02,11%,(<1%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,1.77,,,2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,8,August,TOTAL,TOTAL,188000.00,15178.66,8%,(3%),2021-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Recoveries of Loans and Advances,Gross Recoveries,64375.01,9066.45,14%,(13%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,63.89,<1%,(<1%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,9002.56,69%,(59%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,9115.46,5%,(3%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,9113.69,12%,(5%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,1.77,,,2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,9,September,TOTAL,TOTAL,188000.00,18118.02,10%,(7%),2021-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Recoveries of Loans and Advances,Gross Recoveries,64375.01,10431.00,16%,(16%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,72.89,<1%,(<1%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,10358.11,80%,(68%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,9363.78,5%,(3%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,9333.06,12%,(5%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,30.72,,,2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,10,October,TOTAL,TOTAL,188000.00,19721.89,10%,(7%),2021-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Recoveries of Loans and Advances,Gross Recoveries,64375.01,11420.92,18%,(18%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,81.85,<1%,(<1%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,11339.07,87%,(80%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,9364.42,5%,(3%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,9333.06,12%,(5%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,31.36,,,2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,11,November,TOTAL,TOTAL,188000.00,20703.49,11%,(8%),2021-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Recoveries of Loans and Advances,Gross Recoveries,64375.01,19196.58,30%,(22%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Recoveries of Loans and Advances,Less Short Term Loans and Advances,51375.01,91.83,<1%,(<1%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,13000.00,19104.75,147%,(95%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,175000.00,9364.44,5%,(9%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,75000.00,9333.05,12%,(12%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt. State in PSBs and FIs,100000.00,0.00,0%,0%,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Miscellaneous Capital Receipts,(iii) Proceeds of monetization of National Highways,0.00,0.00,,,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,31.39,,,2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2021-2022,12,December,TOTAL,TOTAL,188000.00,28469.19,15%,(15%),2022-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Recoveries of Loans and Advances,Gross Recoveries,33750.01,28622.39,85%,(63%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10250.02,10099.43,99%,(1%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23499.99,18522.96,79%,(93%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,60000.00,38670.99,64%,(15%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,50000.00,31122.65,62%,(15%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,7518.10,75%,,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,30.24,,,2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,1,January,TOTAL,TOTAL,83499.99,57193.95,68%,(33%),2023-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Recoveries of Loans and Advances,Gross Recoveries,33750.01,30337.04,90%,(70%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10250.02,10108.52,99%,(1%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23499.99,20228.52,86%,(104%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,60000.00,38671.00,64%,(17%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,50000.00,31122.65,62%,(11%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,7518.10,75%,,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,30.25,,,2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,2,February,TOTAL,TOTAL,83499.99,58899.52,71%,(36%),2023-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Recoveries of Loans and Advances,Gross Recoveries,33750.01,36263.10,107%,(77%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10250.02,10111.45,99%,(2%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23499.99,26151.65,111%,(113%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,60000.00,46034.89,77%,(19%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,50000.00,35342.54,71%,(11%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,10662.10,107%,,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,30.25,,,2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,3,March,TOTAL,TOTAL,83499.99,72186.54,86%,(39%),2023-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Recoveries of Loans and Advances,Gross Recoveries,24666.02,445.26,2%,(1%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,16.40,<1%,(<1%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,428.86,3%,(3%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,3058.79,5%,(<1%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,65000.00,3058.79,5%,(0%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,4,April,TOTAL,TOTAL,79291.00,3487.65,4%,(<1%),2022-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Recoveries of Loans and Advances,Gross Recoveries,24666.02,992.87,4%,(1%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,26.80,<1%,(<1%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,966.07,7%,(6%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24046.42,37%,(2%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,65000.00,24046.41,37%,(5%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.01,,,2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,5,May,TOTAL,TOTAL,79291.00,25012.49,32%,(3%),2022-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Recoveries of Loans and Advances,Gross Recoveries,24666.02,3457.92,14%,(5%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,34.94,<1%,(<1%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,3422.98,24%,(26%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24559.18,38%,(2%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,65000.00,24559.17,38%,(5%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.01,,,2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,6,June,TOTAL,TOTAL,79291.00,27982.16,35%,(4%),2022-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Recoveries of Loans and Advances,Gross Recoveries,24666.02,5601.94,23%,(9%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,42.99,<1%,(<1%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,5558.95,39%,(44%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24559.94,38%,(5%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,65000.00,24559.93,38%,(11%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.01,,,2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,7,July,TOTAL,TOTAL,79291.00,30118.89,38%,(8%),2022-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Recoveries of Loans and Advances,Gross Recoveries,24666.02,7034.17,29%,(11%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,66.93,1%,(<1%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,6967.24,49%,(52%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24560.14,38%,(5%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings including PSBs and FIs,65000.00,24559.93,38%,(11%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.21,,,2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,8,August,TOTAL,TOTAL,79291.00,31527.38,40%,(8%),2022-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Recoveries of Loans and Advances,Gross Recoveries,24666.02,9962.95,40%,(14%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,366.25,4%,(<1%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,9596.70,67%,(69%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24590.15,38%,(5%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,65000.00,24559.93,38%,(12%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,30.22,,,2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,9,September,TOTAL,TOTAL,79291.00,34186.85,43%,(10%),2022-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Recoveries of Loans and Advances,Gross Recoveries,24666.02,21171.65,86%,(16%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,10070.08,97%,(<1%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,11101.57,78%,(80%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,24590.14,38%,(5%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,65000.00,24559.93,38%,(12%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,30.21,,,2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,10,October,TOTAL,TOTAL,79291.00,35691.71,45%,(10%),2022-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Recoveries of Loans and Advances,Gross Recoveries,24666.02,23130.78,94%,(18%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,10078.96,97%,(<1%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,13051.82,91%,(87%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,28429.15,44%,(5%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,65000.00,28398.93,44%,(12%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,30.22,,,2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,11,November,TOTAL,TOTAL,79291.00,41480.97,52%,(11%),2022-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Recoveries of Loans and Advances,Gross Recoveries,24666.02,26523.88,108%,(30%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Recoveries of Loans and Advances,Less Short Term Loans and Advances,10375.02,10088.30,97%,(<1%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,14291.00,16435.58,115%,(147%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,65000.00,38671.00,59%,(5%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,65000.00,31122.66,48%,(12%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Miscellaneous Capital Receipts,(ii) Disinvestment of Govt.'s Stake in PSBs and Fls,0.00,0.00,,(0%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Miscellaneous Capital Receipts,(iii) Proceeds of monetization of National Highways,0.00,7518.10,,,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,Miscellaneous Capital Receipts,(iv) Other Receipts,0.00,30.24,,,2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2022-2023,12,December,TOTAL,TOTAL,79291.00,55106.58,69%,(15%),2023-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Recoveries of Loans and Advances,Gross Recoveries,51250.00,33876.72,66%,(85%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.00,12212.46,48%,(99%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,26000.00,21664.26,83%,(79%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,30000.00,12555.42,42%,(64%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,30000.00,12555.41,42%,,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,0.00,,(75%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.01,,,2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,1,January,TOTAL,TOTAL,56000.00,34219.68,61%,(68%),2024-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Recoveries of Loans and Advances,Gross Recoveries,51250.00,35702.27,70%,(90%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.00,12222.59,48%,(99%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,26000.00,23479.68,90%,(86%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,30000.00,12659.75,42%,(64%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,30000.00,12610.37,42%,,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,0.00,0.00,,(75%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,49.38,,,2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,2,February,TOTAL,TOTAL,56000.00,36139.43,65%,(71%),2024-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Recoveries of Loans and Advances,Gross Recoveries,51250.00,39560.88,77%,(107%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,25250.03,12222.86,48%,(99%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,25999.97,27338.02,105%,(111%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,30000.00,33122.68,110%,(77%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,(i) Receipts,30000.00,17145.12,57%,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,(ii) Others,0.00,15976.56,,(107%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,(iii) Issue of Bonus Share,12157.99,12159.00,1 00%,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,Less Expenditure Netted,12157.99,12158.00,100%,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,Miscellaneous Capital Receipts,Net Issue of Bonus Share,0.00,1.00,,,2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,3,March,TOTAL,TOTAL,55999.97,60460.70,108%,(86%),2024-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Recoveries of Loans and Advances,Gross Recoveries,48250.01,609.65,1%,(2%),2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.01,17.34,<1%,(<1%),2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,592.31,3%,(3%),2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,49.64,<1%,(5%),2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,49.64,<1%,,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,4,April,TOTAL,TOTAL,84000.00,641.95,1%,(4%),2023-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Recoveries of Loans and Advances,Gross Recoveries,48250.01,2969.40,6%,(4%),2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.01,28.23,<1%,(<1%),2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,2941.17,13%,(7%),2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,49.64,<1%,(37%),2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,49.64,<1%,,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,5,May,TOTAL,TOTAL,84000.00,2990.81,4%,(32%),2023-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Recoveries of Loans and Advances,Gross Recoveries,48250.01,6508.72,13%,(14%),2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.01,40.60,<1%,(<1%),2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,6468.12,28%,(24%),2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,4234.96,7%,(38%),2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,4234.96,8%,,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,6,June,TOTAL,TOTAL,84000.00,10703.08,13%,(35%),2023-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Recoveries of Loans and Advances,Gross Recoveries,48250.02,10453.93,22%,(23%),2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,2000.68,9%,(<1%),2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,8253.25,36%,(39%),2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,5465.19,9%,(38%),2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,5465.19,11%,,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,7,July,TOTAL,TOTAL,84000.00,13718.44,16%,(38%),2023-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Recoveries of Loans and Advances,Gross Recoveries,48250.02,12012.30,25%,(29%),2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,2208.50,9%,(1%),2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,9803.80,43%,(49%),2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,5600.95,9%,(38%),2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,5600.95,11%,,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,8,August,TOTAL,TOTAL,84000.00,15404.75,18%,(40%),2023-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Recoveries of Loans and Advances,Gross Recoveries,48250.02,22194.71,46%,(40%),2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,8978.31,36%,(4%),2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,13216.40,57%,(67%),2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,6949.44,11%,(38%),2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,6949.44,14%,,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,9,September,TOTAL,TOTAL,84000.00,20165.84,24%,(43%),2023-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Recoveries of Loans and Advances,Gross Recoveries,48250.02,27172.79,5 6%,(86%),2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,12182.50,48%,(97%),2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,14990.29,65%,(78%),2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,8000.20,13%,(38%),2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,8000.20,16%,,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,10,October,TOTAL,TOTAL,84000.00,22990.49,27%,(45%),2023-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Recoveries of Loans and Advances,Gross Recoveries,48250.02,28795.71,60%,(94%),2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,12191.50,48%,(97%),2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,16604.21,72%,(91%),2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,8858.55,15%,(44%),2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,8858.55,17%,,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.00,,,2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,11,November,TOTAL,TOTAL,84000.00,25462.76,30%,(52%),2023-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Recoveries of Loans and Advances,Gross Recoveries,48250.02,31799.24,66%,(108%),2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Recoveries of Loans and Advances,Less Short Term Loans and Advances,25250.02,12202.25,48%,(97%),2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,23000.00,19596.99,85%,(115%),2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,61000.00,10053.46,16%,(59%),2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Miscellaneous Capital Receipts,(i) Disinvestment of Govt.'s Equity Holdings,51000.00,10053.45,20%,,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Miscellaneous Capital Receipts,(ii) Proceeds of monetization of National Highways,10000.00,0.00,0%,,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,Miscellaneous Capital Receipts,(iii) Other Receipts,0.00,0.01,,,2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2023-2024,12,December,TOTAL,TOTAL,84000.00,29650.45,35%,(69%),2024-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Recoveries of Loans and Advances,Gross Recoveries,199854.01,44445.74,22%,(66%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,173854.01,24240.38,14%,(48%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,26000.00,20205.36,78%,(83%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,33000.00,9018.96,27%,(42%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Miscellaneous Capital Receipts,(i) Receipts,33000.00,9018.96,27%,,2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,1,January,TOTAL,TOTAL,59000.00,29224.32,50%,(61%),2025-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Recoveries of Loans and Advances,Gross Recoveries,199854.01,45906.54,23%,(70%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,173854.01,24251.27,14%,(48%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,26000.00,21655.27,83%,(90%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,33000.00,15709.08,48%,(42%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Miscellaneous Capital Receipts,(i) Receipts,33000.00,9048.08,27%,,2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,Miscellaneous Capital Receipts,(ii) Others,0.00,6661.00,,,2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,2,February,TOTAL,TOTAL,59000.00,37364.35,63%,(65%),2025-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Recoveries of Loans and Advances,Gross Recoveries,199854.01,172778.17,86%,(228%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,24557.58,49%,(48%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,123604.00,123604.00,100%,,2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,26000.00,24616.59,95%,(102%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,33000.00,17202.20,52%,(110%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Miscellaneous Capital Receipts,(i) Receipts,33000.00,10541.20,32%,(57%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Miscellaneous Capital Receipts,(ii) Others,0.00,6661.00,,,2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,Miscellaneous Capital Receipts,(iii) Issue of Bonus Share,0.00,0.00,,,2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,3,March,TOTAL,TOTAL,59000.00,41818.79,71%,(107%),2025-04-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Recoveries of Loans and Advances,Gross Recoveries,79250.01,1059.57,1%,(1%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,18.65,<1%,(<1%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,1040.92,4%,(3%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,0.01,<1%,(<1%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Miscellaneous Capital Receipts,(i) Receipts,50000.00,0.01,<1%,,2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,4,April,TOTAL,TOTAL,79000.00,1040.93,1%,(1%),2024-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Recoveries of Loans and Advances,Gross Recoveries,79250.01,2112.50,3%,(6%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,29.63,<1%,(<1%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,2082.87,7%,(13%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,3.71,<1%,(<1%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Miscellaneous Capital Receipts,(i) Receipts,50000.00,3.71,<1%,,2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,5,May,TOTAL,TOTAL,79000.00,2086.58,3%,(4%),2024-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Recoveries of Loans and Advances,Gross Recoveries,79250.01,10157.15,13%,(13%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,5640.38,11%,(<1%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,4516.77,16%,(28%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,3.71,<1%,(7%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Miscellaneous Capital Receipts,(i) Receipts,50000.00,3.71,<1%,,2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,6,June,TOTAL,TOTAL,79000.00,4520.48,6%,(13%),2024-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Recoveries of Loans and Advances,Gross Recoveries,78250.00,12032.03,15%,(22%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,5651.37,11%,(9%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,6380.66,23%,(36%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,4.64,<1%,(9%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Miscellaneous Capital Receipts,(i) Receipts,50000.00,4.64,<1%,,2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,7,July,TOTAL,TOTAL,77999.99,6385.30,8%,(16%),2024-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Recoveries of Loans and Advances,Gross Recoveries,78250.00,28606.95,37%,(25%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,20560.66,41%,(9%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,8046.29,29%,(43%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,820.39,2%,(9%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Miscellaneous Capital Receipts,(i) Receipts,50000.00,820.39,2%,,2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,8,August,TOTAL,TOTAL,77999.99,8866.68,11%,(18%),2024-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Recoveries of Loans and Advances,Gross Recoveries,78250.00,32004.81,41%,(46%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,20570.65,41%,(36%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,11434.16,41%,(57%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,3166.61,6%,(11%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Miscellaneous Capital Receipts,(i) Receipts,50000.00,3166.61,6%,,2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,9,September,TOTAL,TOTAL,77999.99,14600.77,19%,(24%),2024-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Recoveries of Loans and Advances,Gross Recoveries,78250.00,36456.63,47%,(56%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,23181.52,46%,(48%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,13275.11,47%,(65%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,5531.67,11%,(13%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Miscellaneous Capital Receipts,(i) Receipts,50000.00,5531.67,11%,,2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,10,October,TOTAL,TOTAL,77999.99,18806.78,24%,(27%),2024-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Recoveries of Loans and Advances,Gross Recoveries,78250.00,39029.53,50%,(60%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,24058.02,48%,(48%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,14971.51,53%,(72%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,8981.10,18%,(15%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Miscellaneous Capital Receipts,(i) Receipts,50000.00,8981.10,18%,,2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,11,November,TOTAL,TOTAL,77999.99,23952.61,31%,(30%),2024-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Recoveries of Loans and Advances,Gross Recoveries,78250.00,42530.16,54%,(66%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,24228.78,48%,(48%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,27999.99,18301.38,65%,(85%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,50000.00,8994.24,18%,(16%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Miscellaneous Capital Receipts,(i) Receipts,50000.00,8994.24,18%,,2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,Miscellaneous Capital Receipts,(ii) Others,0.00,0.00,,(0%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2024-2025,12,December,TOTAL,TOTAL,77999.99,27295.62,35%,(35%),2025-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Recoveries of Loans and Advances,Gross Recoveries,147839.51,50164.99,34%,(22%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50150.01,30194.49,60%,(48%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,(0%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,30189.50,19970.50,66%,(78%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,33837.00,37159.75,110%,(27%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Miscellaneous Capital Receipts,(i) Receipts,33837.00,9007.32,27%,(27%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Miscellaneous Capital Receipts,(ii) Others,0.00,28107.42,,,2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,Miscellaneous Capital Receipts,(iii) Issue of Bonus Share,0.00,45.01,,,2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,1,January,TOTAL,TOTAL,64026.50,57130.25,89%,(50%),2026-02-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Recoveries of Loans and Advances,Gross Recoveries,147839.51,51801.51,35%,(23%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50150.01,30206.01,60%,(48%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,(0%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,30189.50,21595.50,72%,(83%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,33837.00,43950.93,130%,(48%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Miscellaneous Capital Receipts,(i) Receipts,33837.00,15796.81,47%,(27%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Miscellaneous Capital Receipts,(ii) Others,0.00,28109.11,,,2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,Miscellaneous Capital Receipts,(iii) Issue of Bonus Share,0.00,45.01,,,2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,2,February,TOTAL,TOTAL,64026.50,65546.43,102%,(63%),2026-03-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Recoveries of Loans and Advances,Gross Recoveries,146750.01,1068.86,1%,(1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,20.79,<1%,(<1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,1048.07,4%,(4%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,21411.38,46%,(<1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Miscellaneous Capital Receipts,(i) Receipts,47000.00,3673.43,8%,(<1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,Miscellaneous Capital Receipts,(ii) Others,0.00,17737.95,,,2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,4,April,TOTAL,TOTAL,76000.00,22459.45,30%,(1%),2025-05-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Recoveries of Loans and Advances,Gross Recoveries,146750.01,2638.74,2%,(3%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,33.22,<1%,(<1%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,2605.52,9%,(7%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,22618.27,48%,(<1%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Miscellaneous Capital Receipts,(i) Receipts,47000.00,3780.85,8%,(<1%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,5,May,TOTAL,TOTAL,76000.00,25223.79,33%,(3%),2025-06-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Recoveries of Loans and Advances,Gross Recoveries,146750.01,5440.15,4%,(13%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,44.77,<1%,(11%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,5395.38,19%,(16%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,22623.07,48%,(<1%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Miscellaneous Capital Receipts,(i) Receipts,47000.00,3785.65,8%,(<1%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,6,June,TOTAL,TOTAL,76000.00,28018.45,37%,(6%),2025-07-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Recoveries of Loans and Advances,Gross Recoveries,146750.01,7194.44,5%,(15%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,56.55,<1%,(11%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,7137.89,25%,(23%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,22650.83,48%,(<1%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Miscellaneous Capital Receipts,(i) Receipts,47000.00,3813.41,8%,(<1%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,7,July,TOTAL,TOTAL,76000.00,29788.72,39%,(8%),2025-08-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Recoveries of Loans and Advances,Gross Recoveries,146750.01,8620.83,6%,(37%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,67.81,<1%,(41%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,8553.02,29%,(29%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,23417.19,50%,(2%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Miscellaneous Capital Receipts,(i) Receipts,47000.00,4579.77,10%,(2%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,8,August,TOTAL,TOTAL,76000.00,31970.21,42%,(11%),2025-09-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Recoveries of Loans and Advances,Gross Recoveries,146750.01,11432.24,8%,(41%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,79.40,<1%,(41%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,11352.84,39%,(41%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,23417.24,50%,(6%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Miscellaneous Capital Receipts,(i) Receipts,47000.00,4579.82,10%,(6%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,9,September,TOTAL,TOTAL,76000.00,34770.08,46%,(19%),2025-10-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Recoveries of Loans and Advances,Gross Recoveries,146750.01,13483.49,9%,(47%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,91.60,<1%,(46%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,13391.89,46%,(47%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,23703.51,50%,(11%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Miscellaneous Capital Receipts,(i) Receipts,47000.00,4866.09,10%,(11%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,10,October,TOTAL,TOTAL,76000.00,37095.40,49%,(24%),2025-11-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Recoveries of Loans and Advances,Gross Recoveries,146750.01,22749.78,16%,(50%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,7539.68,15%,(48%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,15210.10,52%,(53%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,23716.56,50%,(18%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Miscellaneous Capital Receipts,(i) Receipts,47000.00,4879.14,10%,(18%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,11,November,TOTAL,TOTAL,76000.00,38926.66,51%,(31%),2025-12-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Recoveries of Loans and Advances,Recoveries of Loans and Advances,,,,,2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Recoveries of Loans and Advances,Gross Recoveries,146750.01,37028.98,25%,(54%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Recoveries of Loans and Advances,Less Recoveries of Ways & Means Advances and Loans to Govt. Servants,50250.01,18802.64,37%,(48%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Recoveries of Loans and Advances,Less Back to back loans to States in lieu of GST compensation shortfall,67500.00,0.00,0%,,2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Recoveries of Loans and Advances,Net Recoveries of Loans & Advances,29000.00,18226.34,63%,(65%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Miscellaneous Capital Receipts,Miscellaneous Capital Receipts,47000.00,27820.88,59%,(18%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Miscellaneous Capital Receipts,(i) Receipts,47000.00,8983.46,19%,(18%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,Miscellaneous Capital Receipts,(ii) Others,0.00,18837.42,,,2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
+2025-2026,12,December,TOTAL,TOTAL,76000.00,46047.22,61%,(35%),2026-01-15,2026-04-13,CONTROLLER GENERAL OF ACCOUNTS,https://cga.nic.in/
